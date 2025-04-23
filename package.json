@@ -1,0 +1,19 @@
+{
+  "name": "@harshahd/tiny-lib",
+  "version": "1.0.0",
+  "description": "a tiny util library by Harsha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshahd/tiny-lib.git"
+  },
+  "author": "Harsha HD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshahd/tiny-lib/issues"
+  },
+  "homepage": "https://github.com/harshahd/tiny-lib#readme"
+}
